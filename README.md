@@ -22,13 +22,6 @@ Exemplo:
 ./produtor-consumidor 32 1 2
 ```
 
-## Benchmark (opcional)
-
-```bash
-./benchmark.sh
-python3 grafico.py
-```
-
 ## Resultados
 
 ![Tempo médio vs (Np, Nc)](grafico.png)
